@@ -1,5 +1,5 @@
 # About Me:
-Software Engineer MERN stack Mobile developer. Driving innovation with Qallie
+Software Engineer PERN/SERN stack Web/Mobile developer.
 
 
 ## Socials:
